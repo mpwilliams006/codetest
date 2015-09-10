@@ -4,7 +4,11 @@
 
 Build a functioning to-do list using the screenshots provided as a guide. 
 
-You may build it using whatever you want, just make sure it looks and acts like the one in the screenshots.
+Ground rules:
+
+* You may build it using whatever you want, just make sure it looks and acts like the one in the screenshots. (Hint: since you're applying for a front end developer job, you might want to use front end technologies. There's no need to save data in database.)
+* You can look up stuff on the Google but don't ask others for help. 
+* Be prepared to explain and account for all bits of code.
 
 Basic functionality:
 
