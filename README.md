@@ -23,4 +23,9 @@ Dimensions:
 * width 400px
 * min-height 300px
 
-To get started Fork this repo and submit a Pull Request when you're ready.
+To get started:
+
+1. Fork this repo 
+2. Create a new folder for your stuff
+3. Do your work
+4. Submit a Pull Request when you're ready
